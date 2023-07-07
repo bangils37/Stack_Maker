@@ -3,17 +3,22 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Brick
+  - UnBrick
+  - Push
+  - Teleport
+  - UnTeleport
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Wall
   - Water
   - UI
-  - 
-  - 
-  - 
+  - Brick
+  - UnBrick
+  - Ground
   - 
   - 
   - 
